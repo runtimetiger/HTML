@@ -1,0 +1,54 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+a{
+    color: chartreuse;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+a:hover{
+    text-transform: uppercase;
+
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+h1:hover{    
+    text-transform:uppercase;
+    
+}
+
+h2{
+    background-color: chartreuse;
+    color: black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 80px;
+    margin: auto;
+    box-shadow: 0 0 10px cornsilk;
+}
+
+h2:hover{
+    text-transform:uppercase;
+}
+table{
+    width: 100%;
+}
+
+img{
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px white;
+}
